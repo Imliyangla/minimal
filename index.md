@@ -17,13 +17,15 @@
 University of Hyderabad, Hyderabad, IN                                                   Nov 2020 -April 2023
 * Developed and proposed a project focusing on cancer-related long non-coding RNAs' structurome for potential therapeutic development.
 * Utilized Python and libraries to automate labor-intensive procedures, significantly improving efficiency.
-* Presented project progress to both the doctoral committee and department journal club 
+* Presented project progress to both the doctoral committee and department journal club
+  
 ### Project student
-University of Hyderabad, Hyderabad, IN                                                                      2019-2020
+University of Hyderabad, Hyderabad, IN                                                   2019-2020
 * Conducted structure-based virtual screening of SNRPB protein for potential glioblastoma drug candidates.
-* Employed computer-aided homology modeling to analyze molecular interactions. 
+* Employed computer-aided homology modeling to analyze molecular interactions.
+  
 ### Internship                                                                          
-Dept. Biochemistry, NEHU, Shillong.                                                       03/06/2019 - 05/07/2019
+Dept. Biochemistry, NEHU, Shillong.                                                      03/06/2019 - 05/07/2019
 * Gained hands-on training in basic molecular biology and protein purification techniques.
 * Successfully purified GAPDH protein using Ni-NTA chromatography and verified via SDS-PAGE.
 
