@@ -1,6 +1,18 @@
 title: Minimal theme
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: 
+<p align="center">
+  <a href="https://www.linkedin.com/in/imliyangla-longkumer/">LinkedIn</a> |
+  <a href="https://github.com/Imliyangla">GitHub</a>
+  
+  <br>   
+  Passionate and dedicated biochemistry professional with a strong academic background and
+  a drive to merge scientific innovation with technology. My expertise lies in cancer-related 
+  research, structural biology, and bioinformatics. I am adept at utilizing Python and various 
+  other bioinformatics tools to automate processes and extract insights. Eager to contribute my 
+  skills to a research-oriented role in the pharmaceutical or biotech industry, as well as explore
+  opportunities in data analysis and machine learning. 
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
